@@ -1,4 +1,5 @@
-Remote Performance Assistance, OOD project, Spring 2014
+Remote Performance Assistance
+Please refer Pr4s14.pdf(By DR. Fawcett) for more project description. 
 
 NOTE:
 Make sure to run the server before running any client
@@ -52,6 +53,8 @@ Tester:
               Console.Write("\n7. Number of search requests to make (e.g. 3)\n");
 
               Console.Write("\nNote: The number of client instances spawned will start listening for ports");
-
+              
+            
+            
 
 
