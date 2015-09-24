@@ -1,0 +1,110 @@
+
+  Tester running search string processing
+ ===============================
+
+
+ started client
+
+
+
+ started client
+
+
+
+ started client
+
+
+1: ..\..\..\..\Debug\ClientExecutive.exe 2: 8284 3: 127.0.0.1 4: 8181 5: /s
+ Receiver : Started listening at 8284
+
+
+ Sender: Connected to 127.0.0.1:8181
+
+
+ Started sending msg string_search to 127.0.0.1:8181
+
+ Started sending msg string_search to 127.0.0.1:8181
+
+ Started sending msg string_search to 127.0.0.1:8181
+
+ Started sending msg string_search to 127.0.0.1:8181
+
+ Started sending msg string_search to 127.0.0.1:8181
+
+ Started sending msg string_search to 127.0.0.1:8181
+
+ Started sending msg string_search to 127.0.0.1:8181
+
+ Started sending msg string_search to 127.0.0.1:8181
+
+ Started sending msg string_search to 127.0.0.1:8181
+
+ Started sending msg string_search to 127.0.0.1:8181
+
+1: ..\..\..\..\Debug\ClientExecutive.exe 2: 8283 3: 127.0.0.1 4: 8181 5: /s
+ Receiver : Started listening at 8283
+
+
+ Sender: Connected to 127.0.0.1:8181
+
+
+ Started sending msg string_search to 127.0.0.1:8181
+
+ Started sending msg string_search to 127.0.0.1:8181
+
+ Started sending msg string_search to 127.0.0.1:8181
+
+ Started sending msg string_search to 127.0.0.1:8181
+
+ Started sending msg string_search to 127.0.0.1:8181
+
+ Started sending msg string_search to 127.0.0.1:8181
+
+ Started sending msg string_search to 127.0.0.1:8181
+
+ Started sending msg string_search to 127.0.0.1:8181
+
+ Started sending msg string_search to 127.0.0.1:8181
+
+ Started sending msg string_search to 127.0.0.1:8181
+
+1: ..\..\..\..\Debug\ClientExecutive.exe 2: 8282 3: 127.0.0.1 4: 8181 5: /s
+ Receiver : Started listening at 8282
+
+
+ Sender: Connected to 127.0.0.1:8181
+
+
+ Started sending msg string_search to 127.0.0.1:8181
+
+ Started sending msg string_search to 127.0.0.1:8181
+
+ Started sending msg string_search to 127.0.0.1:8181
+
+ Started sending msg string_search to 127.0.0.1:8181
+
+ Started sending msg string_search to 127.0.0.1:8181
+
+ Started sending msg string_search to 127.0.0.1:8181
+
+ Started sending msg string_search to 127.0.0.1:8181
+
+ Started sending msg string_search to 127.0.0.1:8181
+
+ Started sending msg string_search to 127.0.0.1:8181
+
+ Started sending msg string_search to 127.0.0.1:8181
+
+  Time taken in miliseconds 33160 for client0
+
+  Time taken in miliseconds 33171 for client1
+
+  Time taken in miliseconds 33218 for client2
+
+  Total Time taken for all clients running concurrently in miliseconds 33229
+
+  Avg time per client in miliseconds 11076
+
+  Test complete
+Press any key to continue...
+

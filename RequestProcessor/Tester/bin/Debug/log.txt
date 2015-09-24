@@ -1,0 +1,366 @@
+
+  Tester running search string processing
+ ===============================
+
+
+ started client
+
+
+
+ started client
+
+
+
+ started client
+
+
+
+ started client
+
+
+
+ started client
+
+
+1: ..\..\..\..\Debug\ClientExecutive.exe 2: 8283 3: 127.0.0.1 4: 8181 5: /s
+ Receiver : Started listening at 8283
+
+
+ Sender: Connected to 127.0.0.1:8181
+
+
+ Started sending msg string_search to 127.0.0.1:8181
+
+ Started sending msg string_search to 127.0.0.1:8181
+
+ Started sending msg string_search to 127.0.0.1:8181
+
+
+
+Response for search string processing:
+ Req ID: 1398614565066
+ Req timestamped(time since epoch in miliseconds) at server: 1398614565066
+ Search string = hi
+ Num of threads used = 5
+ Turn-around time in mili seconds = 4070
+ Processing time in server in mili seconds = 1494
+ List of files:
+../UploadFiles/127.0.0.1_8585_funPtr4.exe
+../UploadFiles/127.0.0.1_8585_test1.jpg
+../UploadFiles/AbstractCommunicator.cpp
+../UploadFiles/AbstractCommunicator.h
+../UploadFiles/Communicator.cpp
+../UploadFiles/Communicator.h
+
+
+Response for search string processing:
+ Req ID: 1398614565069
+ Req timestamped(time since epoch in miliseconds) at server: 1398614565069
+ Search string = hi
+ Num of threads used = 5
+ Turn-around time in mili seconds = 5332
+ Processing time in server in mili seconds = 2162
+ List of files:
+../UploadFiles/127.0.0.1_8585_funPtr4.exe
+../UploadFiles/127.0.0.1_8585_test1.jpg
+../UploadFiles/AbstractCommunicator.cpp
+../UploadFiles/AbstractCommunicator.h
+../UploadFiles/Communicator.cpp
+../UploadFiles/Communicator.h
+
+
+Response for search string processing:
+ Req ID: 1398614565073
+ Req timestamped(time since epoch in miliseconds) at server: 1398614565073
+ Search string = hi
+ Num of threads used = 5
+ Turn-around time in mili seconds = 5788
+ Processing time in server in mili seconds = 2305
+ List of files:
+../UploadFiles/127.0.0.1_8585_funPtr4.exe
+../UploadFiles/127.0.0.1_8585_test1.jpg
+../UploadFiles/AbstractCommunicator.cpp
+../UploadFiles/AbstractCommunicator.h
+../UploadFiles/Communicator.cpp
+../UploadFiles/Communicator.h
+ Started sending msg quit_sender to 127.0.0.1:8181
+
+ quitting receiver
+quitting sender
+1: ..\..\..\..\Debug\ClientExecutive.exe 2: 8282 3: 127.0.0.1 4: 8181 5: /s
+ Receiver : Started listening at 8282
+
+
+ Sender: Connected to 127.0.0.1:8181
+
+
+ Started sending msg string_search to 127.0.0.1:8181
+
+ Started sending msg string_search to 127.0.0.1:8181
+
+ Started sending msg string_search to 127.0.0.1:8181
+
+
+
+Response for search string processing:
+ Req ID: 1398614565088
+ Req timestamped(time since epoch in miliseconds) at server: 1398614565088
+ Search string = hi
+ Num of threads used = 5
+ Turn-around time in mili seconds = 5140
+ Processing time in server in mili seconds = 2040
+ List of files:
+../UploadFiles/127.0.0.1_8585_funPtr4.exe
+../UploadFiles/127.0.0.1_8585_test1.jpg
+../UploadFiles/AbstractCommunicator.cpp
+../UploadFiles/AbstractCommunicator.h
+../UploadFiles/Communicator.cpp
+../UploadFiles/Communicator.h
+
+
+Response for search string processing:
+ Req ID: 1398614565091
+ Req timestamped(time since epoch in miliseconds) at server: 1398614565091
+ Search string = hi
+ Num of threads used = 5
+ Turn-around time in mili seconds = 5454
+ Processing time in server in mili seconds = 2189
+ List of files:
+../UploadFiles/127.0.0.1_8585_funPtr4.exe
+../UploadFiles/127.0.0.1_8585_test1.jpg
+../UploadFiles/AbstractCommunicator.cpp
+../UploadFiles/AbstractCommunicator.h
+../UploadFiles/Communicator.cpp
+../UploadFiles/Communicator.h
+
+
+Response for search string processing:
+ Req ID: 1398614565095
+ Req timestamped(time since epoch in miliseconds) at server: 1398614565095
+ Search string = hi
+ Num of threads used = 5
+ Turn-around time in mili seconds = 5916
+ Processing time in server in mili seconds = 2411
+ List of files:
+../UploadFiles/127.0.0.1_8585_funPtr4.exe
+../UploadFiles/127.0.0.1_8585_test1.jpg
+../UploadFiles/AbstractCommunicator.cpp
+../UploadFiles/AbstractCommunicator.h
+../UploadFiles/Communicator.cpp
+../UploadFiles/Communicator.h
+ Started sending msg quit_sender to 127.0.0.1:8181
+
+ quitting receiver
+quitting sender
+1: ..\..\..\..\Debug\ClientExecutive.exe 2: 8284 3: 127.0.0.1 4: 8181 5: /s
+ Receiver : Started listening at 8284
+
+
+ Sender: Connected to 127.0.0.1:8181
+
+
+ Started sending msg string_search to 127.0.0.1:8181
+
+ Started sending msg string_search to 127.0.0.1:8181
+
+ Started sending msg string_search to 127.0.0.1:8181
+
+
+
+Response for search string processing:
+ Req ID: 1398614565262
+ Req timestamped(time since epoch in miliseconds) at server: 1398614565262
+ Search string = hi
+ Num of threads used = 5
+ Turn-around time in mili seconds = 5440
+ Processing time in server in mili seconds = 2311
+ List of files:
+../UploadFiles/127.0.0.1_8585_funPtr4.exe
+../UploadFiles/127.0.0.1_8585_test1.jpg
+../UploadFiles/AbstractCommunicator.cpp
+../UploadFiles/AbstractCommunicator.h
+../UploadFiles/Communicator.cpp
+../UploadFiles/Communicator.h
+
+
+Response for search string processing:
+ Req ID: 1398614565264
+ Req timestamped(time since epoch in miliseconds) at server: 1398614565264
+ Search string = hi
+ Num of threads used = 5
+ Turn-around time in mili seconds = 6041
+ Processing time in server in mili seconds = 2400
+ List of files:
+../UploadFiles/127.0.0.1_8585_funPtr4.exe
+../UploadFiles/127.0.0.1_8585_test1.jpg
+../UploadFiles/AbstractCommunicator.cpp
+../UploadFiles/AbstractCommunicator.h
+../UploadFiles/Communicator.cpp
+../UploadFiles/Communicator.h
+
+
+Response for search string processing:
+ Req ID: 1398614565267
+ Req timestamped(time since epoch in miliseconds) at server: 1398614565267
+ Search string = hi
+ Num of threads used = 5
+ Turn-around time in mili seconds = 6312
+ Processing time in server in mili seconds = 2407
+ List of files:
+../UploadFiles/127.0.0.1_8585_funPtr4.exe
+../UploadFiles/127.0.0.1_8585_test1.jpg
+../UploadFiles/AbstractCommunicator.cpp
+../UploadFiles/AbstractCommunicator.h
+../UploadFiles/Communicator.cpp
+../UploadFiles/Communicator.h
+ Started sending msg quit_sender to 127.0.0.1:8181
+
+ quitting receiver
+quitting sender
+1: ..\..\..\..\Debug\ClientExecutive.exe 2: 8285 3: 127.0.0.1 4: 8181 5: /s
+ Receiver : Started listening at 8285
+
+
+ Sender: Connected to 127.0.0.1:8181
+
+
+ Started sending msg string_search to 127.0.0.1:8181
+
+ Started sending msg string_search to 127.0.0.1:8181
+
+ Started sending msg string_search to 127.0.0.1:8181
+
+
+
+Response for search string processing:
+ Req ID: 1398614565356
+ Req timestamped(time since epoch in miliseconds) at server: 1398614565356
+ Search string = hi
+ Num of threads used = 5
+ Turn-around time in mili seconds = 5806
+ Processing time in server in mili seconds = 2438
+ List of files:
+../UploadFiles/127.0.0.1_8585_funPtr4.exe
+../UploadFiles/127.0.0.1_8585_test1.jpg
+../UploadFiles/AbstractCommunicator.cpp
+../UploadFiles/AbstractCommunicator.h
+../UploadFiles/Communicator.cpp
+../UploadFiles/Communicator.h
+
+
+Response for search string processing:
+ Req ID: 1398614565359
+ Req timestamped(time since epoch in miliseconds) at server: 1398614565359
+ Search string = hi
+ Num of threads used = 5
+ Turn-around time in mili seconds = 6081
+ Processing time in server in mili seconds = 2435
+ List of files:
+../UploadFiles/127.0.0.1_8585_funPtr4.exe
+../UploadFiles/127.0.0.1_8585_test1.jpg
+../UploadFiles/AbstractCommunicator.cpp
+../UploadFiles/AbstractCommunicator.h
+../UploadFiles/Communicator.cpp
+../UploadFiles/Communicator.h
+
+
+Response for search string processing:
+ Req ID: 1398614565361
+ Req timestamped(time since epoch in miliseconds) at server: 1398614565361
+ Search string = hi
+ Num of threads used = 5
+ Turn-around time in mili seconds = 6356
+ Processing time in server in mili seconds = 2309
+ List of files:
+../UploadFiles/127.0.0.1_8585_funPtr4.exe
+../UploadFiles/127.0.0.1_8585_test1.jpg
+../UploadFiles/AbstractCommunicator.cpp
+../UploadFiles/AbstractCommunicator.h
+../UploadFiles/Communicator.cpp
+../UploadFiles/Communicator.h
+ Started sending msg quit_sender to 127.0.0.1:8181
+
+ quitting receiver
+quitting sender
+1: ..\..\..\..\Debug\ClientExecutive.exe 2: 8286 3: 127.0.0.1 4: 8181 5: /s
+ Receiver : Started listening at 8286
+
+
+ Sender: Connected to 127.0.0.1:8181
+
+
+ Started sending msg string_search to 127.0.0.1:8181
+
+ Started sending msg string_search to 127.0.0.1:8181
+
+ Started sending msg string_search to 127.0.0.1:8181
+
+
+
+Response for search string processing:
+ Req ID: 1398614566400
+ Req timestamped(time since epoch in miliseconds) at server: 1398614566400
+ Search string = hi
+ Num of threads used = 5
+ Turn-around time in mili seconds = 5449
+ Processing time in server in mili seconds = 1294
+ List of files:
+../UploadFiles/127.0.0.1_8585_funPtr4.exe
+../UploadFiles/127.0.0.1_8585_test1.jpg
+../UploadFiles/AbstractCommunicator.cpp
+../UploadFiles/AbstractCommunicator.h
+../UploadFiles/Communicator.cpp
+../UploadFiles/Communicator.h
+
+
+Response for search string processing:
+ Req ID: 1398614566402
+ Req timestamped(time since epoch in miliseconds) at server: 1398614566402
+ Search string = hi
+ Num of threads used = 5
+ Turn-around time in mili seconds = 5575
+ Processing time in server in mili seconds = 1171
+ List of files:
+../UploadFiles/127.0.0.1_8585_funPtr4.exe
+../UploadFiles/127.0.0.1_8585_test1.jpg
+../UploadFiles/AbstractCommunicator.cpp
+../UploadFiles/AbstractCommunicator.h
+../UploadFiles/Communicator.cpp
+../UploadFiles/Communicator.h
+
+
+Response for search string processing:
+ Req ID: 1398614566404
+ Req timestamped(time since epoch in miliseconds) at server: 1398614566404
+ Search string = hi
+ Num of threads used = 5
+ Turn-around time in mili seconds = 5699
+ Processing time in server in mili seconds = 1114
+ List of files:
+../UploadFiles/127.0.0.1_8585_funPtr4.exe
+../UploadFiles/127.0.0.1_8585_test1.jpg
+../UploadFiles/AbstractCommunicator.cpp
+../UploadFiles/AbstractCommunicator.h
+../UploadFiles/Communicator.cpp
+../UploadFiles/Communicator.h
+ Started sending msg quit_sender to 127.0.0.1:8181
+
+ quitting receiver
+quitting sender
+  Time taken in miliseconds 7589 for client0
+
+  Time taken in miliseconds 7721 for client1
+
+  Time taken in miliseconds 7858 for client2
+
+  Time taken in miliseconds 7982 for client3
+
+  Time taken in miliseconds 6570 for client4
+
+  Total Time taken for all clients running concurrently in miliseconds 8150
+
+  Avg time per client in miliseconds 1630
+
+  Test complete
+Press any key to continue...
+

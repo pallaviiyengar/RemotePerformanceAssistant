@@ -1,0 +1,38 @@
+﻿Build started 28-04-2014 04:58:53.
+     1>Project "D:\apr28\SocketDemo2 - sender_before_change_v36\CppCLI-client\CppCLI-client.vcxproj" on node 2 (Rebuild target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt ..\ChronoTimer\ChronoTimer\ChronoTimer.cpp "CppCLI-client.cpp"
+         CppCLI-client.cpp
+     1>d:\apr28\socketdemo2 - sender_before_change_v36\cppcli-client\cppcli-client.cpp(24): error C2871: 'System' : a namespace with this name does not exist
+     1>d:\apr28\socketdemo2 - sender_before_change_v36\cppcli-client\cppcli-client.cpp(25): error C2653: 'System' : is not a class or namespace name
+     1>d:\apr28\socketdemo2 - sender_before_change_v36\cppcli-client\cppcli-client.cpp(25): error C2871: 'Text' : a namespace with this name does not exist
+     1>d:\apr28\socketdemo2 - sender_before_change_v36\cppcli-client\cppcli-client.cpp(27): error C2143: syntax error : missing ';' before '^'
+     1>d:\apr28\socketdemo2 - sender_before_change_v36\cppcli-client\cppcli-client.cpp(27): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>d:\apr28\socketdemo2 - sender_before_change_v36\cppcli-client\cppcli-client.cpp(27): error C3193: '^' : requires '/clr' or '/ZW' command line option
+     1>d:\apr28\socketdemo2 - sender_before_change_v36\cppcli-client\cppcli-client.cpp(28): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>d:\apr28\socketdemo2 - sender_before_change_v36\cppcli-client\cppcli-client.cpp(29): error C2065: 'StringBuilder' : undeclared identifier
+     1>d:\apr28\socketdemo2 - sender_before_change_v36\cppcli-client\cppcli-client.cpp(29): error C2065: 'sb' : undeclared identifier
+     1>d:\apr28\socketdemo2 - sender_before_change_v36\cppcli-client\cppcli-client.cpp(29): error C2065: 'gcnew' : undeclared identifier
+     1>d:\apr28\socketdemo2 - sender_before_change_v36\cppcli-client\cppcli-client.cpp(29): error C2146: syntax error : missing ';' before identifier 'StringBuilder'
+     1>d:\apr28\socketdemo2 - sender_before_change_v36\cppcli-client\cppcli-client.cpp(29): error C3861: 'StringBuilder': identifier not found
+     1>d:\apr28\socketdemo2 - sender_before_change_v36\cppcli-client\cppcli-client.cpp(31): error C2065: 'sb' : undeclared identifier
+     1>d:\apr28\socketdemo2 - sender_before_change_v36\cppcli-client\cppcli-client.cpp(31): error C2227: left of '->Append' must point to class/struct/union/generic type
+                 type is 'unknown-type'
+     1>d:\apr28\socketdemo2 - sender_before_change_v36\cppcli-client\cppcli-client.cpp(32): error C2065: 'sb' : undeclared identifier
+     1>d:\apr28\socketdemo2 - sender_before_change_v36\cppcli-client\cppcli-client.cpp(32): error C2227: left of '->ToString' must point to class/struct/union/generic type
+                 type is 'unknown-type'
+     1>d:\apr28\socketdemo2 - sender_before_change_v36\cppcli-client\cppcli-client.cpp(32): warning C4508: 'convert' : function should return a value; 'void' return type assumed
+     1>d:\apr28\socketdemo2 - sender_before_change_v36\cppcli-client\cppcli-client.cpp(35): error C2065: 's' : undeclared identifier
+     1>d:\apr28\socketdemo2 - sender_before_change_v36\cppcli-client\cppcli-client.cpp(36): error C2448: 'convert' : function-style initializer appears to be a function definition
+     1>d:\apr28\socketdemo2 - sender_before_change_v36\cppcli-client\cppcli-client.cpp(43): error C2065: 'array' : undeclared identifier
+     1>d:\apr28\socketdemo2 - sender_before_change_v36\cppcli-client\cppcli-client.cpp(43): error C2653: 'System' : is not a class or namespace name
+     1>d:\apr28\socketdemo2 - sender_before_change_v36\cppcli-client\cppcli-client.cpp(43): error C2059: syntax error : '>'
+     1>d:\apr28\socketdemo2 - sender_before_change_v36\cppcli-client\cppcli-client.cpp(44): error C2143: syntax error : missing ';' before '{'
+     1>d:\apr28\socketdemo2 - sender_before_change_v36\cppcli-client\cppcli-client.cpp(44): error C2447: '{' : missing function header (old-style formal list?)
+         ChronoTimer.cpp
+         Generating Code...
+     1>Done Building Project "D:\apr28\SocketDemo2 - sender_before_change_v36\CppCLI-client\CppCLI-client.vcxproj" (Rebuild target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:05.81

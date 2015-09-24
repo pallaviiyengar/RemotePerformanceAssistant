@@ -1,0 +1,16 @@
+﻿  Comm.cpp
+  Locks.cpp
+  Sockets.cpp
+  Sender.cpp
+  FileSystem.cpp
+  Receiver.cpp
+  Message.cpp
+  Communicator.cpp
+  AbstractCommunicator.cpp
+  FileManager.cpp
+  Display.cpp
+  ChronoTimer.cpp
+  BlockingQueue.cpp
+  Generating Code...
+     Creating library D:\GDRive\Projects\spring2014\ood\Socket\Debug\IComm.lib and object D:\GDRive\Projects\spring2014\ood\Socket\Debug\IComm.exp
+  IComm.vcxproj -> D:\GDRive\Projects\spring2014\ood\Socket\Debug\IComm.dll
