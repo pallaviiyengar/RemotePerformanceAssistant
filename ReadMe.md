@@ -1,5 +1,5 @@
 Remote Performance Assistance
-Please refer Pr4s14.pdf(By DR. Fawcett) for more project description. 
+Please refer Pr4s14.pdf(Source: Object oriented analysis and design, Spring 2014 Project, Dr Fawcett, Syracuse University) for more project description. 
 
 NOTE:
 Make sure to run the server before running any client
