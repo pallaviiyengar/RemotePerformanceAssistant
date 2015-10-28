@@ -1,7 +1,7 @@
 ///////////////////////////////////////////////////////////////
 // Bridge.cpp - Supports Interop between C# and native C++   //
-//                                                           //
-// Jim Fawcett, CSE687 - Object Oriented Design, Spring 2014 //
+//  Author: PAllavi Iyengar                                                         //
+// Source : Jim Fawcett, CSE687 - Object Oriented Design, Spring 2014 //
 ///////////////////////////////////////////////////////////////
 
 #include "ITask.h"
