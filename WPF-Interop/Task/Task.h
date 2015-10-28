@@ -2,8 +2,8 @@
 #define TASK_H
 ///////////////////////////////////////////////////////////////
 // Task.h - Public interface of long running Task            //
-//                                                           //
-// Jim Fawcett, CSE687 - Object Oriented Design, Spring 2014 //
+// Author: Pallavi Iyengar                                                          //
+// Source: Jim Fawcett, CSE687 - Object Oriented Design, Spring 2014 //
 ///////////////////////////////////////////////////////////////
 
 #include "ITask.h"
