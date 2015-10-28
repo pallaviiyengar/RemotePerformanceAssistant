@@ -2,8 +2,8 @@
 #define ITASK_H
 ///////////////////////////////////////////////////////////////
 // ITask.cpp - Abstract Interface for long task              //
-//                                                           //
-// Jim Fawcett, CSE687 - Object Oriented Design, Spring 2014 //
+// Author: Pallavi Iyengar                                                          //
+// Source: Jim Fawcett, CSE687 - Object Oriented Design, Spring 2014 //
 ///////////////////////////////////////////////////////////////
 #include <string>
 using namespace System;
